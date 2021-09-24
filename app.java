@@ -1,7 +1,8 @@
 import java.util.Scanner;
+
 /**
- * Este Programa realiza o calculo fatorial 
- * de um número utilizando a recursividade.
+ * Este Programa realiza o calculo fatorial de um número utilizando a
+ * recursividade.
  */
 public class app {
 
@@ -10,7 +11,6 @@ public class app {
             return 1;
         else
             return n * fatorial(n - 1);
-
     }
 
     public static void main(String[] args) {
