@@ -1,7 +1,7 @@
 import java.util.Scanner;
-
 /**
- * app
+ * Este Programa realiza o calculo fatorial 
+ * de um número utilizando a recursividade.
  */
 public class app {
 
